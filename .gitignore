@@ -1,3 +1,5 @@
 .vs
 FileVersionInfoRead/bin
 FileVersionInfoRead/obj
+*.exe
+*.obj
