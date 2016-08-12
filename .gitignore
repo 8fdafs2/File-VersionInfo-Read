@@ -1,5 +1,3 @@
-.vs
-FileVersionInfoRead/bin
-FileVersionInfoRead/obj
-*.exe
-*.obj
+.vs/
+[Bb]in/
+[Oo]bj/
